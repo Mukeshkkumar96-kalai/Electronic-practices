@@ -71,12 +71,6 @@ This repository is used to:
 - Improve hardware debugging skills
 - Learn communication protocols
 - Develop practical engineering skills
-
----
-
-# Current Progress
-
-
   
 ---
 
