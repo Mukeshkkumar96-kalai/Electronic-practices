@@ -87,6 +87,10 @@ This repository follows:
 
 ---
 
+# youtube link
+- For the basic idea of the iot or embedded systems and what are the needs
+- [iot or embedded systems] (https://www.youtube.com/watch?v=gO-cvZvFVek&t=6s)
+
 # Long-Term Goal
 
 Develop strong Embedded Systems + IoT engineering skills through practical implementation, debugging, and real-world project development.
